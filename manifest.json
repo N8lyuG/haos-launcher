@@ -1,5 +1,5 @@
 {
- "revision": 3,
+ "revision": 4,
  "launcher": {
   "version": "1.0.0",
   "url": "https://github.com/N8lyuG/haos-launcher/releases/latest"
@@ -292,10 +292,10 @@
    "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/i7Tp1AHw/guideme-20.1.15.jar"
   },
   {
-   "file": "haoscore-0.19.0.jar",
-   "sha1": "3e2a57023a608e33cc209130b28346d1f1787b15",
-   "size": 1246800,
-   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haoscore-0.19.0.jar"
+   "file": "haoscore-0.19.1.jar",
+   "sha1": "626165583ea5a5a7c3936de49cbedb064ef02769",
+   "size": 1247080,
+   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haoscore-0.19.1.jar"
   },
   {
    "file": "immersive_armors-1.7.2+1.20.1-forge.jar",
