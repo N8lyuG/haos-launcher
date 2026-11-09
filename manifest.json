@@ -1,7 +1,7 @@
 {
- "revision": 7,
+ "revision": 9,
  "launcher": {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "url": "https://github.com/N8lyuG/haos-launcher/releases/latest"
  },
  "minecraft": "1.20.1",
@@ -18,15 +18,16 @@
   "file/Haos.zip"
  ],
  "firstOptions": {
-  "lang": "fr_fr"
+  "lang": "fr_fr",
+  "renderDistance": "8",
+  "simulationDistance": "8",
+  "enableVsync": "false",
+  "maxFps": "120",
+  "graphicsMode": "1",
+  "biomeBlendRadius": "1",
+  "mipmapLevels": "2"
  },
  "mods": [
-  {
-   "file": "AE2AddonLib-1.0.4-1.20.1.jar",
-   "sha1": "87b83f4ad3c378e14f637210a469c2ced9144e04",
-   "size": 195270,
-   "url": "https://mediafilez.forgecdn.net/files/7668/681/AE2AddonLib-1.0.4-1.20.1.jar"
-  },
   {
    "file": "Armor of the Ages-forge-1.20.1-1.3.16.jar",
    "sha1": "47eb5a14e912eca35817c3de7f9877a59c4712d9",
@@ -52,6 +53,12 @@
    "url": "https://mediafilez.forgecdn.net/files/8414/335/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar"
   },
   {
+   "file": "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar",
+   "sha1": "26be5d33ff11263476fdff781b48a13208b22fa1",
+   "size": 14210380,
+   "url": "https://cdn.modrinth.com/data/aQ7h7gal/versions/l7Qcp40H/DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar"
+  },
+  {
    "file": "FORGE.musketmod.1.20.1.jar",
    "sha1": "7932317b2327243b6ed2e4101c0976b566972ed2",
    "size": 168484,
@@ -74,6 +81,12 @@
    "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
    "size": 134551,
    "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar"
+  },
+  {
+   "file": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+   "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
+   "size": 532063,
+   "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/rvsLEEZU/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar"
   },
   {
    "file": "Immersive Vehicles-1.20.1-24.0.0.jar",
@@ -112,12 +125,6 @@
    "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
   },
   {
-   "file": "PackagedAuto-1.20.1-3.4.15.46.jar",
-   "sha1": "3fceb59bc410646143135668e630b7ed93cb7661",
-   "size": 559684,
-   "url": "https://cdn.modrinth.com/data/ugIdhQx4/versions/JlONTeuu/PackagedAuto-1.20.1-3.4.15.46.jar"
-  },
-  {
    "file": "Prism-1.20.1-forge-1.0.5.jar",
    "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
    "size": 52205,
@@ -154,10 +161,10 @@
    "url": "https://cdn.modrinth.com/data/TetpeOtE/versions/ox3hGsvz/about_26_1_1%20forge%201_20_1.jar"
   },
   {
-   "file": "ae2ct-1.20.1-1.1.1.jar",
-   "sha1": "e6c9d9c2cd9c52aec6364d87e78924f6165b7998",
-   "size": 242196,
-   "url": "https://mediafilez.forgecdn.net/files/7182/165/ae2ct-1.20.1-1.1.1.jar"
+   "file": "another_furniture-forge-1.20.1-3.0.4.jar",
+   "sha1": "bffc5f4d6ae0a906222990c9d0fa8a632b2aa8ed",
+   "size": 2463633,
+   "url": "https://cdn.modrinth.com/data/ulloLmqG/versions/S9tNKT5R/another_furniture-forge-1.20.1-3.0.4.jar"
   },
   {
    "file": "apocalypse_core-1.0.0-forge-1.20.1.jar",
@@ -170,12 +177,6 @@
    "sha1": "57d3079ec12f706f354851c27490931a577fc230",
    "size": 9348501,
    "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/apocalypsenow-3.0.5-forge-1.20.1_HAOS-V2.jar"
-  },
-  {
-   "file": "appliedenergistics2-forge-15.4.11.jar",
-   "sha1": "e0d777a400fe3c3082681d28de4e7f6a0b3e7b50",
-   "size": 8501309,
-   "url": "https://cdn.modrinth.com/data/XxWD5pD3/versions/jYgSnxye/appliedenergistics2-forge-15.4.11.jar"
   },
   {
    "file": "architectury-9.2.14-forge.jar",
@@ -202,10 +203,22 @@
    "url": "https://mediafilez.forgecdn.net/files/8969/708/balm-forge-1.20.1-7.3.44.jar"
   },
   {
+   "file": "cfm-forge-1.20.1-7.0.0-pre36.jar",
+   "sha1": "66d0ac56f3f6f1efbd6ed7b3cb4a48824d0585c0",
+   "size": 2613393,
+   "url": "https://mediafilez.forgecdn.net/files/4602/980/cfm-forge-1.20.1-7.0.0-pre36.jar"
+  },
+  {
    "file": "chat_heads-0.15.7-forge-1.20.jar",
    "sha1": "80582e413216eb014d83252b05c731a4a151fe9b",
    "size": 724902,
    "url": "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/UJALMfLK/chat_heads-0.15.7-forge-1.20.jar"
+  },
+  {
+   "file": "chisel-forge-2.0.0+mc1.20.1.jar",
+   "sha1": "c90e989d1f002b70bbe41234f0208c927159e39f",
+   "size": 8265809,
+   "url": "https://cdn.modrinth.com/data/4KWv7wbN/versions/7TXJbdEY/chisel-forge-2.0.0%2Bmc1.20.1.jar"
   },
   {
    "file": "cleanswing-1.20-1.8.jar",
@@ -224,6 +237,12 @@
    "sha1": "56fd0da6a15ed24db5b965b197b8b725d83321c8",
    "size": 399180,
    "url": "https://mediafilez.forgecdn.net/files/8997/908/concord_deco-1.1.0.jar"
+  },
+  {
+   "file": "cryonicconfig-forge-1.0.0+mc1.20.1.jar",
+   "sha1": "852d32a59486f1bf13faa70c63c7a6fba28091a5",
+   "size": 133781,
+   "url": "https://cdn.modrinth.com/data/oEhQIkOs/versions/QWk3wFbj/cryonicconfig-forge-1.0.0%2Bmc1.20.1.jar"
   },
   {
    "file": "curios-forge-5.14.1+1.20.1.jar",
@@ -256,10 +275,46 @@
    "url": "https://cdn.modrinth.com/data/Adega8YN/versions/c1HMqDvI/dummmmmmy-1.20-2.0.12-forge.jar"
   },
   {
+   "file": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+   "sha1": "43b3e0766a9e7a30651cc01756476657b865b7a2",
+   "size": 402345,
+   "url": "https://cdn.modrinth.com/data/LQ3K71Q1/versions/EjdIWWqG/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar"
+  },
+  {
    "file": "eclipsearmor-1.0.0.jar",
    "sha1": "b46f47df0a98f701fcb86d72448e91538a5da4dd",
    "size": 734919,
    "url": "https://mediafilez.forgecdn.net/files/8258/949/eclipsearmor-1.0.0.jar"
+  },
+  {
+   "file": "elevatorid-1.20.1-1.9.1-forge.jar",
+   "sha1": "9117fbb20ce0b3b9abd25e19b3d5987a53be30c9",
+   "size": 187868,
+   "url": "https://cdn.modrinth.com/data/hi2dSXTu/versions/nWSTr4AA/elevatorid-1.20.1-1.9.1-forge.jar"
+  },
+  {
+   "file": "embeddium-0.3.31+mc1.20.1.jar",
+   "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f",
+   "size": 1320675,
+   "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar"
+  },
+  {
+   "file": "enhancedequipmentdisplay-forge-1.20.1-1.1.jar",
+   "sha1": "be5f4ddee0e66215b4e4238319ebd5a9d10a054f",
+   "size": 338252,
+   "url": "https://mediafilez.forgecdn.net/files/8773/279/enhancedequipmentdisplay-forge-1.20.1-1.1.jar"
+  },
+  {
+   "file": "entityculling-forge-1.11.3-mc1.20.1.jar",
+   "sha1": "d3c513e88ef9f5cdd7e27d17d923d4dca69c6d55",
+   "size": 1515076,
+   "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/HUUJcFnt/entityculling-forge-1.11.3-mc1.20.1.jar"
+  },
+  {
+   "file": "factory_blocks-forge-1.4.0+mc1.20.1.jar",
+   "sha1": "1d5b4e5694a141952be0460dd85c286ea31d0d5e",
+   "size": 808664,
+   "url": "https://cdn.modrinth.com/data/ht0eTMEs/versions/R3EQLbo9/factory_blocks-forge-1.4.0%2Bmc1.20.1.jar"
   },
   {
    "file": "fantasy_armor-forge-1.2.4-1.20.1.jar",
@@ -268,10 +323,22 @@
    "url": "https://cdn.modrinth.com/data/oVmpjYQ5/versions/U65HntTA/fantasy_armor-forge-1.2.4-1.20.1.jar"
   },
   {
+   "file": "ferritecore-6.0.1-forge.jar",
+   "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+   "size": 123034,
+   "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+  },
+  {
    "file": "fracturepoint-1.20.1-3.0.0-PT2-all.jar",
    "sha1": "d8037f9954b238626f8d9ff2bc277c0341ea2713",
    "size": 2465304,
    "url": "https://cdn.modrinth.com/data/N4vy2cag/versions/OmCBNqXH/fracturepoint-1.20.1-3.0.0-PT2-all.jar"
+  },
+  {
+   "file": "framework-forge-1.20.1-0.8.0.jar",
+   "sha1": "27347879f8760a7bc0b4bd71977abc50e498811c",
+   "size": 383868,
+   "url": "https://mediafilez.forgecdn.net/files/7573/740/framework-forge-1.20.1-0.8.0.jar"
   },
   {
    "file": "geckolib-forge-1.20.1-4.8.4.jar",
@@ -286,16 +353,16 @@
    "url": "https://cdn.modrinth.com/data/wdcuURhS/versions/NnUWhMdw/guccivuitton-1.20.1-0.2.2.jar"
   },
   {
-   "file": "guideme-20.1.15.jar",
-   "sha1": "3d432fc99cefcfd17a12635d2d220f09a069f1c7",
-   "size": 9414827,
-   "url": "https://cdn.modrinth.com/data/Ck4E7v7R/versions/i7Tp1AHw/guideme-20.1.15.jar"
+   "file": "haoscore-0.25.40.jar",
+   "sha1": "a859d2bc5f8e7bab4b1641a92305af16d632a5ae",
+   "size": 8624460,
+   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haoscore-0.25.40.jar"
   },
   {
-   "file": "haoscore-0.19.4.jar",
-   "sha1": "966b72ca739fc2152f3329872b0c718b9a2c4aa9",
-   "size": 1250958,
-   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haoscore-0.19.4.jar"
+   "file": "haosperf-1.0.0.jar",
+   "sha1": "812ae803870baa839c662f07b769751f362c0f14",
+   "size": 6145,
+   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haosperf-1.0.0.jar"
   },
   {
    "file": "immersive_armors-1.7.2+1.20.1-forge.jar",
@@ -364,6 +431,12 @@
    "url": "https://cdn.modrinth.com/data/DH83K7CS/versions/EMSvlCcx/mcore-1.20.1-1.0.3.0.jar"
   },
   {
+   "file": "mcw-furniture-3.4.1-mc1.20.1forge.jar",
+   "sha1": "c05189646bbde5c0d4486b93de0d707115f8445c",
+   "size": 2174615,
+   "url": "https://cdn.modrinth.com/data/dtWC90iB/versions/mvGf4LNK/mcw-furniture-3.4.1-mc1.20.1forge.jar"
+  },
+  {
    "file": "mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
    "sha1": "1b3b4b40041346b19bc9ab280b288a9f6b77b513",
    "size": 604510,
@@ -400,12 +473,6 @@
    "url": "https://mediafilez.forgecdn.net/files/4631/133/overloadedarmorbar-1.20.1-1.jar"
   },
   {
-   "file": "packagedtacz-1.0.4.jar",
-   "sha1": "dcd9a4126bbf47632381e61760555e949450c6ff",
-   "size": 60940,
-   "url": "https://mediafilez.forgecdn.net/files/7754/399/packagedtacz-1.0.4.jar"
-  },
-  {
    "file": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
    "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
    "size": 181437,
@@ -416,6 +483,12 @@
    "sha1": "0a4f72b0a7685c99724ffcf2cec69ce0e739c185",
    "size": 9577892,
    "url": "https://mediafilez.forgecdn.net/files/8830/709/quantified%20api-omni-2.2.3.jar"
+  },
+  {
+   "file": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+   "sha1": "ffb68135b88bdbb25224378c76daf922c3f4c322",
+   "size": 6689588,
+   "url": "https://mediafilez.forgecdn.net/files/7110/922/refurbished_furniture-forge-1.20.1-1.0.20.jar"
   },
   {
    "file": "rpa-1.6.1-forge-1.20.1.jar",
@@ -501,8 +574,8 @@
    "path": "resourcepacks/Haos.zip",
    "mode": "toujours",
    "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/resourcepacks/Haos.zip",
-   "sha1": "679c475ae520bdc101d2deb4569ad73c19336129",
-   "size": 205779
+   "sha1": "742ecd1088a758f5787b598a7dd9073df29c0749",
+   "size": 286892
   },
   {
    "path": "config/CustomNpcs.cfg",
@@ -517,6 +590,27 @@
    "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/config/scalinghealth-client.toml",
    "sha1": "02f0597dcf484e9604110ec972041e488d1f9a04",
    "size": 4476
+  },
+  {
+   "path": "config/QuantifiedAPI/quantified_config.json",
+   "mode": "toujours",
+   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/config/QuantifiedAPI/quantified_config.json",
+   "sha1": "d13b968f91813071e72bb6257054f8b9d239e112",
+   "size": 5919
+  },
+  {
+   "path": "config/embeddium-options.json",
+   "mode": "une_fois",
+   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/config/embeddium-options.json",
+   "sha1": "fe0bf944c0a758c8cd654a372c50fd030b2ac8cc",
+   "size": 847
+  },
+  {
+   "path": "journeymap/config/6.0/journeymap.waypoint.config",
+   "mode": "une_fois",
+   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/journeymap/config/6.0/journeymap.waypoint.config",
+   "sha1": "ea30063db5e4ab4a81df1d3dbd81feffeb16caa6",
+   "size": 1426
   }
  ],
  "news": []
