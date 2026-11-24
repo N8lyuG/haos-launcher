@@ -1,5 +1,5 @@
 {
- "revision": 9,
+ "revision": 10,
  "launcher": {
   "version": "1.1.0",
   "url": "https://github.com/N8lyuG/haos-launcher/releases/latest"
@@ -15,6 +15,7 @@
   "tacz_resources",
   "mod_resources",
   "Moonlight Mods Dynamic Assets",
+  "file/AMA-v3-1.20.1.zip",
   "file/Haos.zip"
  ],
  "firstOptions": {
@@ -28,132 +29,6 @@
   "mipmapLevels": "2"
  },
  "mods": [
-  {
-   "file": "Armor of the Ages-forge-1.20.1-1.3.16.jar",
-   "sha1": "47eb5a14e912eca35817c3de7f9877a59c4712d9",
-   "size": 544410,
-   "url": "https://cdn.modrinth.com/data/vEgtiJIY/versions/Bc9cFnLg/Armor%20of%20the%20Ages-forge-1.20.1-1.3.16.jar"
-  },
-  {
-   "file": "CNPC-Gecko-Addon-1.20.1-1.0.14.jar",
-   "sha1": "d77c3e401d3c8c79fad186f877e6eedfadfe0597",
-   "size": 304561,
-   "url": "https://mediafilez.forgecdn.net/files/8414/493/CNPC-Gecko-Addon-1.20.1-1.0.14.jar"
-  },
-  {
-   "file": "Clumps-forge-1.20.1-12.0.0.4.jar",
-   "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
-   "size": 20299,
-   "url": "https://mediafilez.forgecdn.net/files/5278/538/Clumps-forge-1.20.1-12.0.0.4.jar"
-  },
-  {
-   "file": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar",
-   "sha1": "c1a973b55f6f67e9fdeb197195e490ba92146381",
-   "size": 10873769,
-   "url": "https://mediafilez.forgecdn.net/files/8414/335/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar"
-  },
-  {
-   "file": "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar",
-   "sha1": "26be5d33ff11263476fdff781b48a13208b22fa1",
-   "size": 14210380,
-   "url": "https://cdn.modrinth.com/data/aQ7h7gal/versions/l7Qcp40H/DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar"
-  },
-  {
-   "file": "FORGE.musketmod.1.20.1.jar",
-   "sha1": "7932317b2327243b6ed2e4101c0976b566972ed2",
-   "size": 168484,
-   "url": "https://mediafilez.forgecdn.net/files/4830/400/FORGE.musketmod.1.20.1.jar"
-  },
-  {
-   "file": "FarmersDelight-1.20.1-1.3.4.jar",
-   "sha1": "26f615fd35f652021f5b0f1cba68afa7d578fe15",
-   "size": 3311051,
-   "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/SiIpcZzM/FarmersDelight-1.20.1-1.3.4.jar"
-  },
-  {
-   "file": "FazRoleplayClothes-1.20.1-2.4.jar",
-   "sha1": "64ef59203d33efd35e7fb4ceb787d7543fb25ee0",
-   "size": 700041,
-   "url": "https://cdn.modrinth.com/data/zjMFbe7B/versions/ADWMsZR2/FazRoleplayClothes-1.20.1-2.4.jar"
-  },
-  {
-   "file": "Iceberg-1.20.1-forge-1.1.25.jar",
-   "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
-   "size": 134551,
-   "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar"
-  },
-  {
-   "file": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
-   "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
-   "size": 532063,
-   "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/rvsLEEZU/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar"
-  },
-  {
-   "file": "Immersive Vehicles-1.20.1-24.0.0.jar",
-   "sha1": "efe6962bf0304eb7ac234daa75551bf8e30ef3b7",
-   "size": 6254897,
-   "url": "https://cdn.modrinth.com/data/BCzBuhJ5/versions/xBHmZvmC/Immersive%20Vehicles-1.20.1-24.0.0.jar"
-  },
-  {
-   "file": "ItemBorders-1.20.1-forge-1.2.2.jar",
-   "sha1": "cf42466689489348e1e3a5df00d2ce6c65dd978a",
-   "size": 20832,
-   "url": "https://cdn.modrinth.com/data/b1fMg6sH/versions/JUW31p4D/ItemBorders-1.20.1-forge-1.2.2.jar"
-  },
-  {
-   "file": "Jade-1.20.1-Forge-11.13.3.jar",
-   "sha1": "d08e64e66521d69e083c8525f1fc507f1c202384",
-   "size": 553487,
-   "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/xJQHCmWJ/Jade-1.20.1-Forge-11.13.3.jar"
-  },
-  {
-   "file": "Kaminari Motor Work 2.6.1 16-20.jar",
-   "sha1": "966ea300bb319d4c47df09a14134ac0e20ee5c42",
-   "size": 176296347,
-   "url": "https://mediafilez.forgecdn.net/files/6549/423/Kaminari%20Motor%20Work%202.6.1%2016-20.jar"
-  },
-  {
-   "file": "MTS Official Pack-1.20.1-V29.jar",
-   "sha1": "9307186fe7f109f0fcc8397bb4457cb956822b88",
-   "size": 70997298,
-   "url": "https://cdn.modrinth.com/data/C7TiPPJz/versions/PNN5h914/MTS%20Official%20Pack-1.20.1-V29.jar"
-  },
-  {
-   "file": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
-   "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
-   "size": 76237,
-   "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
-  },
-  {
-   "file": "Prism-1.20.1-forge-1.0.5.jar",
-   "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
-   "size": 52205,
-   "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/FFyss87M/Prism-1.20.1-forge-1.0.5.jar"
-  },
-  {
-   "file": "Psychadelic-Chemistry_1.20.1-2.2.jar",
-   "sha1": "bba5c056202cb1e50635fb9552b3d9bd9f925625",
-   "size": 72964331,
-   "url": "https://mediafilez.forgecdn.net/files/8468/928/Psychadelic-Chemistry_1.20.1-2.2.jar"
-  },
-  {
-   "file": "ScalingHealth-1.20.1-8.0.2+9.jar",
-   "sha1": "d0d36837568ee1ce7511647b977f9e8402055c19",
-   "size": 535471,
-   "url": "https://cdn.modrinth.com/data/UvEHlX52/versions/OTsI95Em/ScalingHealth-1.20.1-8.0.2%2B9.jar"
-  },
-  {
-   "file": "SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
-   "sha1": "187977cf09972df5773c92b8af5fd342a9d726cb",
-   "size": 2834011,
-   "url": "https://cdn.modrinth.com/data/icU5P2Mk/versions/4U6gwadt/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar"
-  },
-  {
-   "file": "Thunders Tactical Arsenal V-2.0.0.jar",
-   "sha1": "aebaf5f4f5b3cd75a0a6800c6f6e7ec4eabc85b8",
-   "size": 587410,
-   "url": "https://mediafilez.forgecdn.net/files/8837/684/Thunders%20Tactical%20Arsenal%20V-2.0.0.jar"
-  },
   {
    "file": "about_26_1_1 forge 1_20_1.jar",
    "sha1": "331a57e8ddb3a0e551d96070d6120dab868b62b6",
@@ -183,6 +58,12 @@
    "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
    "size": 580602,
    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar"
+  },
+  {
+   "file": "Armor of the Ages-forge-1.20.1-1.3.16.jar",
+   "sha1": "47eb5a14e912eca35817c3de7f9877a59c4712d9",
+   "size": 544410,
+   "url": "https://cdn.modrinth.com/data/vEgtiJIY/versions/Bc9cFnLg/Armor%20of%20the%20Ages-forge-1.20.1-1.3.16.jar"
   },
   {
    "file": "armor_series__fallout-3.1.0.jar",
@@ -233,10 +114,34 @@
    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar"
   },
   {
+   "file": "Clumps-forge-1.20.1-12.0.0.4.jar",
+   "sha1": "97cc669f68dbe812cb77cc3631339334fc28b877",
+   "size": 20299,
+   "url": "https://mediafilez.forgecdn.net/files/5278/538/Clumps-forge-1.20.1-12.0.0.4.jar"
+  },
+  {
+   "file": "CNPC-Gecko-Addon-1.20.1-1.0.14.jar",
+   "sha1": "d77c3e401d3c8c79fad186f877e6eedfadfe0597",
+   "size": 304561,
+   "url": "https://mediafilez.forgecdn.net/files/8414/493/CNPC-Gecko-Addon-1.20.1-1.0.14.jar"
+  },
+  {
    "file": "concord_deco-1.1.0.jar",
    "sha1": "56fd0da6a15ed24db5b965b197b8b725d83321c8",
    "size": 399180,
    "url": "https://mediafilez.forgecdn.net/files/8997/908/concord_deco-1.1.0.jar"
+  },
+  {
+   "file": "cosmeticarmorreworked-1.20.1-v1a.jar",
+   "sha1": "afd9fa3fe95e8c086e8d439df403ed1e5ea5cbea",
+   "size": 88752,
+   "url": "https://mediafilez.forgecdn.net/files/4600/191/cosmeticarmorreworked-1.20.1-v1a.jar"
+  },
+  {
+   "file": "Croptopia-1.20.1-FORGE-4.0.1.jar",
+   "sha1": "ddec955cea11a6d65b8bdc50951d11e0896353d6",
+   "size": 2155802,
+   "url": "https://mediafilez.forgecdn.net/files/8066/550/Croptopia-1.20.1-FORGE-4.0.1.jar"
   },
   {
    "file": "cryonicconfig-forge-1.0.0+mc1.20.1.jar",
@@ -249,6 +154,12 @@
    "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
    "size": 398066,
    "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.14.1%2B1.20.1.jar"
+  },
+  {
+   "file": "CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar",
+   "sha1": "c1a973b55f6f67e9fdeb197195e490ba92146381",
+   "size": 10873769,
+   "url": "https://mediafilez.forgecdn.net/files/8414/335/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar"
   },
   {
    "file": "decorative_blocks-forge-1.20.1-4.1.3.jar",
@@ -267,6 +178,12 @@
    "sha1": "b5250979fb0c79e8ea93742bfab9c67d4a886cad",
    "size": 9658884,
    "url": "https://mediafilez.forgecdn.net/files/6781/856/doomsday_decoration-1.1.3-forge-1.20.1.jar"
+  },
+  {
+   "file": "DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar",
+   "sha1": "26be5d33ff11263476fdff781b48a13208b22fa1",
+   "size": 14210380,
+   "url": "https://cdn.modrinth.com/data/aQ7h7gal/versions/l7Qcp40H/DramaticDoors-QuiFabrge-1.20.1-3.3.3.jar"
   },
   {
    "file": "dummmmmmy-1.20-2.0.12-forge.jar",
@@ -311,6 +228,18 @@
    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/HUUJcFnt/entityculling-forge-1.11.3-mc1.20.1.jar"
   },
   {
+   "file": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
+   "sha1": "8ab2a138b0ead12541bbd2cc1e56df075f32099d",
+   "size": 745878,
+   "url": "https://cdn.modrinth.com/data/DIIgdJzf/versions/vZWRmjl2/EpheroLib-1.20.1-FORGE-1.2.0.jar"
+  },
+  {
+   "file": "expandability-9.0.4.jar",
+   "sha1": "2ea3c2ec654e11a5548f33d0d733aa6ecd9a0d6d",
+   "size": 80765,
+   "url": "https://mediafilez.forgecdn.net/files/5301/414/expandability-9.0.4.jar"
+  },
+  {
    "file": "factory_blocks-forge-1.4.0+mc1.20.1.jar",
    "sha1": "1d5b4e5694a141952be0460dd85c286ea31d0d5e",
    "size": 808664,
@@ -323,10 +252,28 @@
    "url": "https://cdn.modrinth.com/data/oVmpjYQ5/versions/U65HntTA/fantasy_armor-forge-1.2.4-1.20.1.jar"
   },
   {
+   "file": "FarmersDelight-1.20.1-1.3.4.jar",
+   "sha1": "26f615fd35f652021f5b0f1cba68afa7d578fe15",
+   "size": 3311051,
+   "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/SiIpcZzM/FarmersDelight-1.20.1-1.3.4.jar"
+  },
+  {
+   "file": "FazRoleplayClothes-1.20.1-2.4.jar",
+   "sha1": "64ef59203d33efd35e7fb4ceb787d7543fb25ee0",
+   "size": 700041,
+   "url": "https://cdn.modrinth.com/data/zjMFbe7B/versions/ADWMsZR2/FazRoleplayClothes-1.20.1-2.4.jar"
+  },
+  {
    "file": "ferritecore-6.0.1-forge.jar",
    "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
    "size": 123034,
    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar"
+  },
+  {
+   "file": "FORGE.musketmod.1.20.1.jar",
+   "sha1": "7932317b2327243b6ed2e4101c0976b566972ed2",
+   "size": 168484,
+   "url": "https://mediafilez.forgecdn.net/files/4830/400/FORGE.musketmod.1.20.1.jar"
   },
   {
    "file": "fracturepoint-1.20.1-3.0.0-PT2-all.jar",
@@ -353,16 +300,40 @@
    "url": "https://cdn.modrinth.com/data/wdcuURhS/versions/NnUWhMdw/guccivuitton-1.20.1-0.2.2.jar"
   },
   {
-   "file": "haoscore-0.25.40.jar",
-   "sha1": "a859d2bc5f8e7bab4b1641a92305af16d632a5ae",
-   "size": 8624460,
-   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haoscore-0.25.40.jar"
+   "file": "haoscore-0.25.227.jar",
+   "sha1": "01734d1fe19f11cf2004a63ba96dc03bf1318408",
+   "size": 13115670,
+   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haoscore-0.25.227.jar"
+  },
+  {
+   "file": "haoskart-1.0.2.jar",
+   "sha1": "5d68a8985d0993ac67aed4ab91821b0592813fe2",
+   "size": 68705,
+   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haoskart-1.0.2.jar"
   },
   {
    "file": "haosperf-1.0.0.jar",
    "sha1": "812ae803870baa839c662f07b769751f362c0f14",
    "size": 6145,
    "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haosperf-1.0.0.jar"
+  },
+  {
+   "file": "Iceberg-1.20.1-forge-1.1.25.jar",
+   "sha1": "d551ff55814cfb01403b812459ee5a02b020d87b",
+   "size": 134551,
+   "url": "https://cdn.modrinth.com/data/5faXoLqX/versions/BQ8rJPXV/Iceberg-1.20.1-forge-1.1.25.jar"
+  },
+  {
+   "file": "ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+   "sha1": "9eacd407b7dea636d375dc47335d92f616484ea2",
+   "size": 532063,
+   "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/rvsLEEZU/ImmediatelyFast-Forge-1.5.5%2B1.20.4.jar"
+  },
+  {
+   "file": "Immersive Vehicles-1.20.1-24.0.0.jar",
+   "sha1": "efe6962bf0304eb7ac234daa75551bf8e30ef3b7",
+   "size": 6254897,
+   "url": "https://cdn.modrinth.com/data/BCzBuhJ5/versions/xBHmZvmC/Immersive%20Vehicles-1.20.1-24.0.0.jar"
   },
   {
    "file": "immersive_armors-1.7.2+1.20.1-forge.jar",
@@ -377,6 +348,18 @@
    "url": "https://cdn.modrinth.com/data/P3iIrPH3/versions/YjbOtYwN/ironchest-1.20.1-14.4.4.jar"
   },
   {
+   "file": "ItemBorders-1.20.1-forge-1.2.2.jar",
+   "sha1": "cf42466689489348e1e3a5df00d2ce6c65dd978a",
+   "size": 20832,
+   "url": "https://cdn.modrinth.com/data/b1fMg6sH/versions/JUW31p4D/ItemBorders-1.20.1-forge-1.2.2.jar"
+  },
+  {
+   "file": "Jade-1.20.1-Forge-11.13.3.jar",
+   "sha1": "d08e64e66521d69e083c8525f1fc507f1c202384",
+   "size": 553487,
+   "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/xJQHCmWJ/Jade-1.20.1-Forge-11.13.3.jar"
+  },
+  {
    "file": "jei-1.20.1-forge-15.56.0.205.jar",
    "sha1": "7f64b7f8fde7f001ef054dabe3618a8780ba2650",
    "size": 1778129,
@@ -387,6 +370,12 @@
    "sha1": "fb9411d6d516f604a8fa63ba505205d813d7caa1",
    "size": 4353808,
    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/HWDC99DO/journeymap-forge-1.20.1-6.0.7.jar"
+  },
+  {
+   "file": "Kaminari Motor Work 2.6.1 16-20.jar",
+   "sha1": "966ea300bb319d4c47df09a14134ac0e20ee5c42",
+   "size": 176296347,
+   "url": "https://mediafilez.forgecdn.net/files/6549/423/Kaminari%20Motor%20Work%202.6.1%2016-20.jar"
   },
   {
    "file": "kotlinforforge-4.12.0-all.jar",
@@ -455,6 +444,18 @@
    "url": "https://mediafilez.forgecdn.net/files/9073/68/moonlight-1.20-2.16.36-forge.jar"
   },
   {
+   "file": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+   "sha1": "d751153e722a4e014691c83f39f5b07c6ec5333c",
+   "size": 76237,
+   "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/7JVXOe3K/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
+  },
+  {
+   "file": "MTS Official Pack-1.20.1-V29.jar",
+   "sha1": "9307186fe7f109f0fcc8397bb4457cb956822b88",
+   "size": 70997298,
+   "url": "https://cdn.modrinth.com/data/C7TiPPJz/versions/PNN5h914/MTS%20Official%20Pack-1.20.1-V29.jar"
+  },
+  {
    "file": "netherportalfix-forge-1.20-13.0.1.jar",
    "sha1": "b110e4590177475dcde70dd9dafd5257116ad9f8",
    "size": 217831,
@@ -479,6 +480,18 @@
    "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
   },
   {
+   "file": "Prism-1.20.1-forge-1.0.5.jar",
+   "sha1": "bcb4bbb1052f49ed4fe6e7d5d7f91f68d45c3fe3",
+   "size": 52205,
+   "url": "https://cdn.modrinth.com/data/1OE8wbN0/versions/FFyss87M/Prism-1.20.1-forge-1.0.5.jar"
+  },
+  {
+   "file": "Psychadelic-Chemistry_1.20.1-2.2.jar",
+   "sha1": "bba5c056202cb1e50635fb9552b3d9bd9f925625",
+   "size": 72964331,
+   "url": "https://mediafilez.forgecdn.net/files/8468/928/Psychadelic-Chemistry_1.20.1-2.2.jar"
+  },
+  {
    "file": "quantified api-omni-2.2.3.jar",
    "sha1": "0a4f72b0a7685c99724ffcf2cec69ce0e739c185",
    "size": 9577892,
@@ -497,6 +510,12 @@
    "url": "https://mediafilez.forgecdn.net/files/7230/849/rpa-1.6.1-forge-1.20.1.jar"
   },
   {
+   "file": "ScalingHealth-1.20.1-8.0.2+9.jar",
+   "sha1": "d0d36837568ee1ce7511647b977f9e8402055c19",
+   "size": 535471,
+   "url": "https://cdn.modrinth.com/data/UvEHlX52/versions/OTsI95Em/ScalingHealth-1.20.1-8.0.2%2B9.jar"
+  },
+  {
    "file": "silent-lib-1.20.1-8.0.0.jar",
    "sha1": "6614c90b3d5b64eaa5509921ee861827c37b9bca",
    "size": 225949,
@@ -513,6 +532,12 @@
    "sha1": "1712d0190f14a7459598beee8b2fdd0203e02150",
    "size": 229374,
    "url": "https://mediafilez.forgecdn.net/files/7090/352/snows_bosses_mechasent-1.3.2-forge-1.20.1.jar"
+  },
+  {
+   "file": "SpartanWeaponry-1.20.1-forge-3.2.1-all.jar",
+   "sha1": "187977cf09972df5773c92b8af5fd342a9d726cb",
+   "size": 2834011,
+   "url": "https://cdn.modrinth.com/data/icU5P2Mk/versions/4U6gwadt/SpartanWeaponry-1.20.1-forge-3.2.1-all.jar"
   },
   {
    "file": "tacz-1.20.1-1.1.8-hotfix2.jar",
@@ -537,6 +562,12 @@
    "sha1": "c8143ed7a91800044166dbb0a6de98e37f9dd441",
    "size": 495813,
    "url": "https://cdn.modrinth.com/data/3Ihyt5WL/versions/A361uNth/taczaddon-1.1.8.3-forge-1.20.1.jar"
+  },
+  {
+   "file": "Thunders Tactical Arsenal V-2.0.0.jar",
+   "sha1": "aebaf5f4f5b3cd75a0a6800c6f6e7ec4eabc85b8",
+   "size": 587410,
+   "url": "https://mediafilez.forgecdn.net/files/8837/684/Thunders%20Tactical%20Arsenal%20V-2.0.0.jar"
   },
   {
    "file": "trashslot-forge-1.20.1-15.1.5.jar",
@@ -574,8 +605,15 @@
    "path": "resourcepacks/Haos.zip",
    "mode": "toujours",
    "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/resourcepacks/Haos.zip",
-   "sha1": "742ecd1088a758f5787b598a7dd9073df29c0749",
-   "size": 286892
+   "sha1": "0ae94959524057b30b1ece53e95f8183cda48bf3",
+   "size": 397185
+  },
+  {
+   "path": "resourcepacks/AMA-v3-1.20.1.zip",
+   "mode": "toujours",
+   "url": "https://mediafilez.forgecdn.net/files/8028/101/%C2%A78A%C2%A7f.%C2%A72M%C2%A7f.%C2%A7bA-%C2%A7fv3%20-%20%281.20%E2%80%931.20.1%29.zip",
+   "sha1": "eda1f85a46b4a785c12f10221179030d6a33ba6c",
+   "size": 2912229
   },
   {
    "path": "config/CustomNpcs.cfg",
@@ -602,8 +640,22 @@
    "path": "config/embeddium-options.json",
    "mode": "une_fois",
    "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/config/embeddium-options.json",
-   "sha1": "fe0bf944c0a758c8cd654a372c50fd030b2ac8cc",
-   "size": 847
+   "sha1": "2eb14d9fa9e2c17d8baea3374190679afb61810c",
+   "size": 846
+  },
+  {
+   "path": "config/mtsconfig.json",
+   "mode": "toujours",
+   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/config/mtsconfig.json",
+   "sha1": "d290f3d312a1c6e4effb5561f32b8a6a5e1d1b2c",
+   "size": 14410
+  },
+  {
+   "path": "config/entityculling.json",
+   "mode": "toujours",
+   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/config/entityculling.json",
+   "sha1": "770912865c921b5e5881efeea0cb91a53bcb4050",
+   "size": 2409
   },
   {
    "path": "journeymap/config/6.0/journeymap.waypoint.config",
