@@ -8,3 +8,8 @@ Il faut le launcher Minecraft officiel et un compte Minecraft Java.
 
 Les mods tiers ne sont pas hébergés ici : le launcher les télécharge depuis Modrinth ou CurseForge.
 `files/mods/apocalypsenow-…_HAOS-V2.jar` est une version modifiée d'Apocalypse Now (JPZamps), sous licence Academic Free License v3.0.
+
+---
+Haos est un projet de fans indépendant. **Haos n'est pas affilié à Mojang ni à Microsoft**, ni approuvé par eux. Minecraft est une marque de Mojang AB.
+
+*Haos is an independent fan project, not affiliated with or endorsed by Mojang or Microsoft. Minecraft is a trademark of Mojang AB.*
