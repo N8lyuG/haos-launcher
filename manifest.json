@@ -1,7 +1,7 @@
 {
  "revision": 10,
  "launcher": {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "url": "https://github.com/N8lyuG/haos-launcher/releases/latest"
  },
  "minecraft": "1.20.1",
