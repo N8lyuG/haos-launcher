@@ -1,5 +1,5 @@
 {
- "revision": 11,
+ "revision": 12,
  "launcher": {
   "version": "1.2.0",
   "url": "https://github.com/N8lyuG/haos-launcher/releases/latest"
@@ -300,16 +300,16 @@
    "url": "https://cdn.modrinth.com/data/wdcuURhS/versions/NnUWhMdw/guccivuitton-1.20.1-0.2.2.jar"
   },
   {
-   "file": "haoscore-0.25.227.jar",
-   "sha1": "01734d1fe19f11cf2004a63ba96dc03bf1318408",
-   "size": 13115670,
-   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haoscore-0.25.227.jar"
+   "file": "haoscore-0.25.267.jar",
+   "sha1": "de7af3d74353576588207b1a23faf61a77d3915b",
+   "size": 13188037,
+   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haoscore-0.25.267.jar"
   },
   {
-   "file": "haoskart-1.0.2.jar",
-   "sha1": "5d68a8985d0993ac67aed4ab91821b0592813fe2",
-   "size": 68705,
-   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haoskart-1.0.2.jar"
+   "file": "haoskart-1.0.5.jar",
+   "sha1": "43bf2f3a2b2e308f9368f9a115f81eb7b17137ed",
+   "size": 76460,
+   "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/mods/haoskart-1.0.5.jar"
   },
   {
    "file": "haosperf-1.0.0.jar",
@@ -640,8 +640,8 @@
    "path": "config/embeddium-options.json",
    "mode": "une_fois",
    "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/config/embeddium-options.json",
-   "sha1": "2eb14d9fa9e2c17d8baea3374190679afb61810c",
-   "size": 846
+   "sha1": "4a313ce734bf96816ddbd568128216b0bf0cad58",
+   "size": 845
   },
   {
    "path": "config/mtsconfig.json",
