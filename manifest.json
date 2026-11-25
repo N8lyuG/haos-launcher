@@ -1,5 +1,5 @@
 {
- "revision": 10,
+ "revision": 11,
  "launcher": {
   "version": "1.2.0",
   "url": "https://github.com/N8lyuG/haos-launcher/releases/latest"
@@ -624,10 +624,10 @@
   },
   {
    "path": "config/scalinghealth-client.toml",
-   "mode": "une_fois",
+   "mode": "toujours",
    "url": "https://raw.githubusercontent.com/N8lyuG/haos-launcher/main/files/config/scalinghealth-client.toml",
-   "sha1": "02f0597dcf484e9604110ec972041e488d1f9a04",
-   "size": 4476
+   "sha1": "5474e7978ec98b50256299b73aecbeaaa16c9a15",
+   "size": 4480
   },
   {
    "path": "config/QuantifiedAPI/quantified_config.json",

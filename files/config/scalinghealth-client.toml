@@ -37,7 +37,7 @@
 		[hearts.health.text]
 			#Style of health text
 			#Allowed Values: DISABLED, ROWS, HEALTH_AND_MAX, HEALTH_ONLY
-			style = "ROWS"
+			style = "DISABLED"
 			#Health text scale, relative to its normal size (which varies by style)
 			#Range: 0.01 ~ 1.7976931348623157E308
 			scale = 1.0
